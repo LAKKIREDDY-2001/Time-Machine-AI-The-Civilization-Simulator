@@ -1,0 +1,6 @@
+{
+  "name": "Time Machine AI",
+  "description": "An interactive civilization-scale simulation platform to travel to future timelines, explore alternate realities, and design societies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
